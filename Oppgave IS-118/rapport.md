@@ -211,7 +211,7 @@
 
 
 
-## 6. Sikring av god kommunikasjon Mariana
+## 6. Sikring av god kommunikasjon 
 God og effektiv kommunikasjon er særlig viktig i et tverrfaglig prosjekt, der deltakerne har ulik faglig bakgrunn og dermed kan ha forskjellige perspektiver og informasjonsbehov. I starten av prosjektet burde prosjekt leder allerede ha etablert tydelige kommunikasjonsrutiner (Jacobsen, 2016, s.81).
 
 Etablere et tydelig system for intern informasjonsdeling er et viktig tiltak. Prosjektmedlemmene burde ha informasjon om blant annet målsettinger, ressursbruk, tidsfrister og resultater tilgjengelig. Jacobsen (2016, s,81) fremhever også betydningen av å benytte flere kommunikasjonskanaler og etablere en fast rytme for når informasjon skal oppdateres og deles. For Erling kan dette innebære å velge en felles digital kanal for løpende informasjon og dokumentdeling, samt avtale faste tidspunkter for statusoppdateringer. For medlemmene kan dette gjøre det mer tydelige for hvor de finner relevant informasjon og hvordan informasjon skal deles (Jacobsen, 2016, s.81).
