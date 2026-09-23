@@ -3,7 +3,18 @@
 ## 1. Strategi for rekruttering og sammensetning   Kateryna
 
 
-## 2. Design av "det første møtet" Martinius 
+
+
+
+
+
+
+
+
+
+
+
+## 2. Design av "det første møtet"
 Møtet til Erling er satt opp i henhold til de tre kjernekomponentene i formingsfasen: orientering, testing og avhengighetsetablering (Tuckman, 1965). Disse prosessene er avgjørende tidlig i gruppens levetid for at medlemmene skal gå fra å være usikre på hverandre til å bli et samkjørt team som klarer å levere kvalitetsarbeid. 
 
 Møtet starter med en uformell bli-kjent-runde med navn og litt om seg selv. Deretter presenterer Erling målet med prosjektet, hvem som gjør hva, og oppgavene som skal løses. Siden prosjektgruppen er satt sammen av mennesker med ulik bakgrunn, kommer ikke alle til å være enige om alt. Dette er viktig å løfte frem tidlig, ettersom man kan argumentere for at gruppen trenger produktiv friksjon for å komme frem til de beste løsningene. 
