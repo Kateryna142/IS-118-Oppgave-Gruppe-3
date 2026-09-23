@@ -36,6 +36,50 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 3. Rammer for relasjonelle kontrakter 
 I Erling sitt tilfelle er det viktig at prosjektmandatet fokusere på tid, kostnad og kvalitet som jerntriangelet går ut på. Prosjektet skal bli laget på 15 måneder med et budsjett på 8 millioner kroner. Siden prosjektgruppen består av folk fra ulike faglig bakgrunn og kompetanse bør det være tydelige forventninger til hvordan man skal samarbeide om prosjektet. (Jacobsen, 2016, s. 42).
 
