@@ -44,3 +44,6 @@ Dette kan ses i sammenheng med psykologiskrling må gjer. I følge Edmondson (19
 
 
 ## Egeenevaluering av gruppekontrakt/samarbeid 
+
+
+## Referanser 
