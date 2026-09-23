@@ -15,6 +15,22 @@
 ## 5. Håndtering av tidspress og "planleggingsfellen"  
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 6. Sikring av god kommunikasjon Mariana
 God og effektiv kommunikasjon er særlig viktig i et tverrfaglig prosjekt, der deltakerne har ulik faglig bakgrunn og dermed kan ha forskjellige perspektiver og informasjonsbehov. I starten av prosjektet burde prosjekt leder allerede ha etablert tydelige kommunikasjonsrutiner (Jacobsen, 2016, s.81).
 
