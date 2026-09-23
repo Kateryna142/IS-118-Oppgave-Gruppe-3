@@ -4,7 +4,7 @@
 
 Utviklingen av en digital medborgerportal for kommunen er et komplekst prosjekt som krever en gjennomtenkt og målrettet strategi for rekruttering og sammensetning av prosjektgruppen. Prosjektets tidsramme er 15 måneder, budsjettet er 8 millioner kroner, og målet er å øke innbyggerengasjementet med 20 %. For å nå dette må Erling etablere en prosjektgruppe som både har nødvendig fagkompetanse og gode forutsetninger for samarbeid i et tverrfaglig miljø. Rekruttering og sammensetning bør planlegges tidlig, fordi prosjektgruppen i den innledende fasen etablerer de første arbeidsrelasjonene og rammene for videre samarbeid. Hvordan gruppen struktureres i denne fasen, kan derfor få stor betydning for hvordan medlemmene samarbeider og utvikler tillit gjennom resten av prosjektperioden (Jacobsen, 2016, s. 31-32).
 
-
+Ved rekrutteringen bør Erling først ta utgangspunkt i hvilke fagområder prosjektet krever. Prosjektet krever kunnskap innen blent annet IT, UX/UI og digital sikkerhet, men også kompetanse fra kommunal administrasjon og forståelse av innbygernes behov. Det er likevel ikke nok å bare velge de faglig sterkeste kandidatene. Jacobsen (2016, s. 32-33) viser at medlemmene også må kunne samarbeide og utfylle hverandre. Han beskriver fire sentrale teamroller i en gruppe: produksjon, administrasjon, integrasjon og entreprenørskap. Produksjon 
 
 ## 2. Design av "det første møtet" Martinius 
 
