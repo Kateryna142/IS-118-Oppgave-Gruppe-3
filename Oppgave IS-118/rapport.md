@@ -59,6 +59,41 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 4. Proaktive mekanismer for konflikthåndtering  
 For at Erling skal sørge for at gruppen har fremdrift og et trygt sosialt arbeidsmiljø, må han etablere systematiske ordninger som forhindrer at uenigheter eskalerer til dypere konflikter. I organisasjonsteorien skiller man mellom sakskonflikter og relasjonskonflikter (Gjøsund & Huseby, 2023), der Jacobsen (2016) bruker begrepet personkonflikter om den siste typen. En moderat mengde sakskonflikt øker gruppens kreativitet og problemløsningsevne, og bidrar til et mer tillitsbasert samarbeid (Jacobsen, 2016, s. 66). Hvis sakskonflikter forblir uløste, kan de imidlertid utvikle seg til relasjonskonflikter. Da flyttes oppmerksomheten bort fra saken og over på motparten, som man etter hvert opplever som en som motarbeider en, heller enn en som vil samarbeide om å løse problemet (Gjøsund & Huseby, 2023, s. 191).
 
